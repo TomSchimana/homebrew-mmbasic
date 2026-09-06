@@ -1,17 +1,17 @@
 class Mmbasic < Formula
   desc "MMBasic interpreter for macOS, ported from MMBasic for Linux"
   homepage "https://github.com/TomSchimana/mmb4m"
-  version "0.1.1"
+  version "0.1.2"
   license :cannot_represent
 
   on_arm do
-    url "https://github.com/TomSchimana/mmb4m/releases/download/v0.1.1/mmb4m-0.1.1-silicon.zip"
-    sha256 "12795eb8354fe22737cbe969d9c89b0d437aa7ebaf1f3cec7cc75674ab1280fe"
+    url "https://github.com/TomSchimana/mmb4m/releases/download/v0.1.2/mmb4m-0.1.2-silicon.zip"
+    sha256 "22f2f0c070309f3c1e211010c244996a503a5f790bc5659bc762ff52d8e30d2e"
   end
 
   on_intel do
-    url "https://github.com/TomSchimana/mmb4m/releases/download/v0.1.1/mmb4m-0.1.1-intel.zip"
-    sha256 "8501721b62745f32599c273c2c7e6230b065a8d220a2c8b8d19934096b5ed313"
+    url "https://github.com/TomSchimana/mmb4m/releases/download/v0.1.2/mmb4m-0.1.2-intel.zip"
+    sha256 "4dff534cc0599bb7c1362baf2416475325393b2881895d17fb5848114dce03f6"
   end
 
   def install
