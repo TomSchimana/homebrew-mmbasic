@@ -1,9 +1,9 @@
-# TomSchimana/mmb4m
+# TomSchimana/mmbasic
 
 A [Homebrew](https://brew.sh) tap for [MMB4M](https://github.com/TomSchimana/mmb4m), MMBasic for macOS.
 
 ```sh
-brew tap TomSchimana/mmb4m
+brew tap TomSchimana/mmbasic
 brew install mmbasic
 ```
 
