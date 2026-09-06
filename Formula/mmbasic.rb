@@ -1,4 +1,4 @@
-class Mmb4m < Formula
+class Mmbasic < Formula
   desc "MMBasic interpreter for macOS, ported from MMBasic for Linux"
   homepage "https://github.com/TomSchimana/mmb4m"
   version "0.1.1"
