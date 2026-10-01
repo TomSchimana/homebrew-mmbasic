@@ -6,12 +6,12 @@ class Mmbasic < Formula
 
   on_arm do
     url "https://github.com/TomSchimana/mmb4m/releases/download/v0.2.0/mmb4m-0.2.0-silicon.zip"
-    sha256 "264f02862c56d503c5a32d5097907a4c7e2e31eb950e1b1947c4dea50c67a7c6"
+    sha256 "baf501f0b10b299fcee4eb412a19c5a2ebb1511a76e0f429bb3fa8034a96da13"
   end
 
   on_intel do
     url "https://github.com/TomSchimana/mmb4m/releases/download/v0.2.0/mmb4m-0.2.0-intel.zip"
-    sha256 "e83a683be0e77928eb7c8cfe69ff6c9234b40b6d7a01b77208c48fbea648e570"
+    sha256 "d6d95c02f1d39b01cbb02cdab2628e1251a7fdb4c5b7613ca2163ccb3499d5ee"
   end
 
   def install
